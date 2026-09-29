@@ -22,7 +22,7 @@ I am not a professional programmer. I built this tool because I personally neede
 
 ### ☕ Support the Project
 This software is and will always be 100% free. If it helped you organize your multi-monitor setups and you want to support my work to keep improving it (and bring it to Linux!), you can buy me a coffee:
-* *[Coming soon: Buy Me a Coffee Link]*
+* *https://ko-fi.com/nexuscycle
 
 ### 🚀 How to Use It
 *(Instructions on how to download and run the .exe will be added here once compiled)*
@@ -42,7 +42,7 @@ No soy programador profesional. Desarrollé esta herramienta porque la necesitab
 
 ### ☕ Apoya el proyecto
 Este software es y será 100% gratuito. Si te ha servido para organizar tus pantallas y quieres apoyar mi trabajo para seguir mejorándolo (¡y llevarlo a Linux!), puedes invitarme a un café:
-* *[Próximamente: Enlace de Buy Me a Coffee]*
+* *https://ko-fi.com/nexuscycle
 
 ### 🚀 Cómo usarlo
 *(Las instrucciones de cómo descargar y ejecutar el archivo .exe se añadirán aquí una vez lo compilemos)*
